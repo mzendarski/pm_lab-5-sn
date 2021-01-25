@@ -14,3 +14,5 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
+3.2.6
+Silnik jest podłączony równolegle co wymaga zasatosowanie tranzystra, który działa jako narzędzie do wysterowania silnika.
